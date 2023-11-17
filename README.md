@@ -13,4 +13,4 @@
 
 📫 Связваться со мной:  
 [Телеграм](https://t.me/Sonyator)  
-[Почта](softoropowa@yandex.ru)
+[Почта](mailto:softoropowa@yandex.ru)
