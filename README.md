@@ -12,5 +12,5 @@
 * PHP
 
 📫 Связваться со мной:  
-Почта: softoropowa@yandex.ru  
 [Телеграм](https://t.me/Sonyator)  
+[Почта](softoropowa@yandex.ru)
